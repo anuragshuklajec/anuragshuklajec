@@ -8,7 +8,7 @@ I've been living this programming journey for over four years. With about 1+ yea
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [anuragshuklajec@gmail.com](mailto:anuragshuklajec@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I'm currently learning Rust
 * 🤝  I'm open to collaborating on Python, Django, FastAPI, Rust
 
 <a href="https://www.x.com/anuraagCodes" target="_blank" rel="noreferrer"><img
